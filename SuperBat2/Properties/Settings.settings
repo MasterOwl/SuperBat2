@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SuperBat2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LocalServerFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ServerInstall\</Value>
+    </Setting>
+    <Setting Name="RemotePublishFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\builder2\Publish\</Value>
+    </Setting>
+    <Setting Name="ServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FD22 - NEW_EDMS_ORASQL</Value>
+    </Setting>
+    <Setting Name="TwitterConsumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{ConsumerKey}</Value>
+    </Setting>
+    <Setting Name="TwitterConsumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{ConsumerSecret}</Value>
+    </Setting>
+    <Setting Name="TwitterToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{Token}</Value>
+    </Setting>
+    <Setting Name="TwitterTokenSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{TokenSecret}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
